@@ -1,3 +1,11 @@
-streamlit
+jupyter
 pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+nltk
+plotly
+streamlit
+mlxtend
 pickle
